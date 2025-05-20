@@ -4,7 +4,7 @@ This project provides a lightweight Flask-based API that listens for GitHub webh
 (specifically issue comments) and **automatically creates corresponding Jira issues** using  
 the Jira REST API.
 
-Upgrade To Serverless: use AWS lambda_function and API gateway for serverless. 
+✅ Upgraded to Serverless Architecture using AWS Lambda and API Gateway, with secrets securely managed via AWS Systems Manager Parameter Store for enhanced security and cost optimization.
 ---
 
 ## ✨ FEATURES
