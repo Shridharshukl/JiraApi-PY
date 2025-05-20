@@ -30,7 +30,7 @@ jiraAPI.py           # Jira integration logic using REST API
 
 1. **Clone the Repository:**
    ```sh
-   git clone [Link](https://github.com/Shridharshukl/JiraApi-PY.git)
+   git clone https://github.com/Shridharshukl/JiraApi-PY.git
    cd jiraApi-PY
    ```
 
